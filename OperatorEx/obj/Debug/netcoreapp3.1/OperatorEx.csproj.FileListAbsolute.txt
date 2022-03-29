@@ -1,0 +1,14 @@
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\bin\Debug\netcoreapp3.1\OperatorEx.exe
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\bin\Debug\netcoreapp3.1\OperatorEx.deps.json
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\bin\Debug\netcoreapp3.1\OperatorEx.runtimeconfig.json
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\bin\Debug\netcoreapp3.1\OperatorEx.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\bin\Debug\netcoreapp3.1\OperatorEx.dll
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\bin\Debug\netcoreapp3.1\OperatorEx.pdb
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\obj\Debug\netcoreapp3.1\OperatorEx.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\obj\Debug\netcoreapp3.1\OperatorEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\obj\Debug\netcoreapp3.1\OperatorEx.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\obj\Debug\netcoreapp3.1\OperatorEx.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\obj\Debug\netcoreapp3.1\OperatorEx.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\obj\Debug\netcoreapp3.1\OperatorEx.dll
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\obj\Debug\netcoreapp3.1\OperatorEx.pdb
+C:\Users\Andrea\source\repos\OperatorEx\OperatorEx\obj\Debug\netcoreapp3.1\OperatorEx.genruntimeconfig.cache
